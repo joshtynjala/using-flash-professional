@@ -651,7 +651,7 @@ More Help topics
 
 [Objects and classes](https://web.archive.org/web/20111231232956mp_/http://help.adobe.com/en_US/as3/learn/WS5b3ccc516d4fbf351e63e3d118a9b90204-7f9f.html)
 
-[Compiling and exporting classes (ActionScript 2.0)](https://web.archive.org/web/20120111162413mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+[Compiling and exporting classes (ActionScript 2.0)](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 
 ![](../img/as3LinkIndicator.png)
 [Data types](https://web.archive.org/web/20120111162413mp_/http://help.adobe.com/en_US/as3/learn/WS5b3ccc516d4fbf351e63e3d118a9b90204-7fc6.html)

@@ -23,11 +23,12 @@ commands in the Manage Saved Commands dialog box.
 
     > **Note:** The command is saved as a JavaScript file (with the extension
     > .jsfl) in your Commands folder. This folder is in the following locations:
-    > Windows XP: boot drive\Documents and Settings\\user\>\Local
-    > Settings\Application Data\Adobe\Flash
-    > CS5\\language\>\Configuration\Commands; Mac OS® X: Macintosh
-    > HD/Users/\<username\>/Library/Application Support/Adobe/Flash
-    > CS5/\<language\>/Configuration/Commands.
+    >
+    > - Windows XP: _boot drive\Documents and Settings\\\<user\>\Local
+    >   Settings\Application Data\Adobe\Flash
+    >   CS5\\\<language\>\Configuration\Commands_
+    > - Mac OS® X: _Macintosh HD/Users/\<username\>/Library/Application
+    >   Support/Adobe/Flash CS5/\<language\>/Configuration/Commands_
 
 ### Edit the names of commands in the Commands menu
 
@@ -51,10 +52,9 @@ commands in the Manage Saved Commands dialog box.
 ## Get more commands
 
 Use the Get More Commands option in the Commands menu to link to the Flash
-Exchange website at
-[www.adobe.com/go/flash_exchange](https://web.archive.org/web/20120101152006mp_/http://www.adobe.com/go/flash_exchange)
-and download commands that other Flash Pro users have posted. For more
-information on the commands posted there, see the Flash Exchange website.
+Exchange website and download commands that other Flash Pro users have posted.
+For more information on the commands posted there, see the Flash Exchange
+website.
 
 1.  Make sure you are connected to the Internet.
 2.  Select Commands \> Get More Commands.

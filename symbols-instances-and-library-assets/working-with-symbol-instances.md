@@ -10,7 +10,7 @@ You can give names to instances from the Property inspector. Use the instance
 name to refer to an instance in ActionScript. To control instances with
 ActionScript®, give each instance within a single timeline a unique name. For
 more information, see Handling events in
-[Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111231232956mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+[Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 or
 [Handling events](https://web.archive.org/web/20111231232956mp_/http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b90204-7fca.html)
 in the _ActionScript 3.0 Developer's Guide_.
@@ -54,7 +54,7 @@ rotate, or scale an instance without affecting the symbol.
 
 In addition, you can name a movie clip or button instance so that you can use
 ActionScript to change its properties. For more information, see Classes in
-[Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111231232956mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+[Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 or
 [Objects and classes](https://web.archive.org/web/20111231232956mp_/http://help.adobe.com/en_US/as3/learn/WS5b3ccc516d4fbf351e63e3d118a9b90204-7f9f.html)
 in _Learning ActionScript 3.0_. To edit instance properties, you use the

@@ -70,7 +70,7 @@ dialog box or the Linkage Properties dialog box.
     > **Note:** Flash Pro also uses the linkage identifier to identify a movie
     > clip or button that is used as an object in ActionScript. See Working with
     > movie clips in
-    > [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120115054337mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+    > [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
     > or
     > [Working with movie clips](https://web.archive.org/web/20120115054337mp_/http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b90204-7e1d.html)
     > in the ActionScript 3.0 Developer's Guide.

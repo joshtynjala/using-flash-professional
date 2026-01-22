@@ -55,15 +55,6 @@ For more help getting started with the Flash Pro workflow, see the following:
 - Article: _Creating a simple document in Flash Professional_:
   [http://www.adobe.com/devnet/flash/articles/flash_cs4_createfla.html](https://web.archive.org/web/20120102010447mp_/http://www.adobe.com/devnet/flash/articles/flash_cs4_createfla.html)
 
-- Flash overview:
-  [www.adobe.com/go/lrvid4053_fl](https://web.archive.org/web/20120102010447mp_/http://www.adobe.com/go/lrvid4053_fl)
-
-- Flash workflow:
-  [www.adobe.com/go/vid0132](https://web.archive.org/web/20120102010447mp_/http://www.adobe.com/go/vid0132)
-
-- Creating your first interactive Flash file:
-  [www.adobe.com/go/vid0118](https://web.archive.org/web/20120102010447mp_/http://www.adobe.com/go/vid0118)
-
 ## Workspace overview
 
 You create and manipulate your documents and files using various elements, such

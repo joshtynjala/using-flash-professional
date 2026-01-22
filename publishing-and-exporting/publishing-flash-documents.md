@@ -91,9 +91,8 @@ alternative content in the page if it is not.
 Adobe® Flash® Lite® lets Flash Pro users create engaging content for mobile
 phones using the ActionScript® scripting language, drawing tools, and templates.
 For detailed information on authoring for mobile devices, see _Developing Flash
-Lite Applications_ and the Content Development Kits on the Mobile and Devices
-Development Center at
-[www.adobe.com/go/devnet_devices](https://web.archive.org/web/20120101113637mp_/http://www.adobe.com/go/devnet_devices).
+Lite Applications_ and the Content Development Kits on the
+[Mobile and Devices Development Center](https://web.archive.org/web/20111125223202/http://www.adobe.com/devnet/devices.html).
 
 > **Note:** Depending on the mobile device for which you are developing, certain
 > restrictions can apply as to which ActionScript commands and sound formats are
@@ -136,7 +135,7 @@ in exactly the same domain.
 
 For more information about ensuring that content performs as expected with the
 new security model, see Understanding security in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120101113637mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 #### Local and network playback security
 
@@ -166,7 +165,7 @@ ActiveX host application.
 To control Flash Pro content in Flash Player, use menu commands and the
 `fscommand()` function. For more information, see Sending messages to and from
 Flash Player in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120101113637mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 Use the Flash Player context menu to print Flash Pro content frames.
 ![](../img/dingbat.png) Do one of the following:
@@ -188,10 +187,10 @@ it.
 
 2.  Remove any currently installed version of the player.
 
-    For instructions, see TechNote 14157 on the Adobe® Flash® Support Center at
-    [www.adobe.com/go/tn_14157](https://web.archive.org/web/20120101113637mp_/http://www.adobe.com/go/tn_14157).
+    For instructions, see
+    [TechNote 14157 on the Adobe® Flash® Support Center](https://web.archive.org/web/20111221092653/http://kb2.adobe.com/cps/141/tn_14157.html).
 
-3.  To begin the installation, visit http://www.adobe.com/go/getflashplayer.
+3.  To begin the installation, download the Adobe Flash Player installer.
 
     Follow the on-screen instructions to install the player.
 
@@ -217,8 +216,8 @@ For users to view your Flash Pro content on the web, the web server must be
 properly configured to recognize SWF files.
 
 Your server may already be configured properly. To test server configuration,
-see TechNote 4151 on the Adobe Flash Support Center at
-[www.adobe.com/go/tn_4151](https://web.archive.org/web/20120101113637mp_/http://www.adobe.com/go/tn_4151).
+see
+[TechNote 4151 on the Adobe Flash Support Center](https://web.archive.org/web/20100601132631/http://kb2.adobe.com/cps/415/tn_4151.html).
 
 Configuring a server establishes the appropriate Multipart Internet Mail
 Extension (MIME) types so that the server can identify files with the .swf
@@ -253,7 +252,7 @@ auto-update feature, and block Flash Player from reading anything from the
 user's local hard disk.
 
 For more information about security, see System in
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120101113637mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 #### Adding MIME Types
 

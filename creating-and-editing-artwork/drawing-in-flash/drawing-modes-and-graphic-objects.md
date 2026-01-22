@@ -12,7 +12,7 @@ work.
 > are part of the ActionScript® programming language. Do not confuse the two
 > uses of the term _"objects_." For more information on objects in the
 > programming language, see About Data Types in
-> [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111115153835mp_/http://www.adobe.com/go/learn_cs5_learningas2_en),
+> [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html),
 > or
 > [Data types](https://web.archive.org/web/20111115153835mp_/http://help.adobe.com/en_US/as3/learn/WS5b3ccc516d4fbf351e63e3d118a9b90204-7f9c.html)
 > in _the ActionScript 3.0 Developer's Guide_.

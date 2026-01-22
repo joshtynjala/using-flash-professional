@@ -115,27 +115,21 @@ In order to create Flex components in Flash Pro, you must install the Flex
 Component Kit for Flash Pro. You install the component kit using Adobe Extension
 Manager. Some versions of the component kit may not support all features of
 Adobe® Flash® Professional CS5, so be sure to download the latest version of the
-component kit from
-[www.adobe.com/go/flex_ck_en](https://web.archive.org/web/20111231232914mp_/http://www.adobe.com/go/flex_ck_en).
+[Flex component kit](https://github.com/apache/flex-sdk/tree/develop/frameworks/projects/flash-integration).
 
-For more information about using Flex and Flash Pro together, refer to the Flex
-documentation on the Adobe web site at
-[www.adobe.com/go/learn_flexresources_en](https://web.archive.org/web/20111231232914mp_/http://www.adobe.com/go/learn_flexresources_en).
+For more information about using Flex and Flash Pro together, refer to the
+[Flex documentation on the Adobe web site](https://web.archive.org/web/20100627004209/http://www.adobe.com/support/documentation/en/flex/).
 
 To create a Flex component in Flash:
 
-1.  Be sure you have Adobe Extension Manager installed. To download Extension
-    Manager, visit the Extension Manager download page at
-    [www.adobe.com/go/extension_manager_dl_en](https://web.archive.org/web/20111231232914mp_/http://www.adobe.com/go/extension_manager_dl_en).
+1.  Be sure you have Adobe Extension Manager installed.
 
     By default, Extension Manager is installed with the Adobe Creative Suite
     applications.
 
-2.  Download and install the Flex Component Kit, available at
-    [www.adobe.com/go/flex_ck_en](https://web.archive.org/web/20111231232914mp_/http://www.adobe.com/go/flex_ck_en).
-    Be sure to quit Flash Pro before installing the component kit. For
-    information about installing extensions with Adobe Extension Manager, see
-    [www.adobe.com/go/learn_extension_manager_en](https://web.archive.org/web/20111231232914mp_/http://www.adobe.com/go/learn_extension_manager_en).
+2.  Download and install the
+    [Flex Component Kit](https://github.com/apache/flex-sdk/tree/develop/frameworks/projects/flash-integration).
+    Be sure to quit Flash Pro before installing the component kit.
 
 3.  Launch Flash Pro. Two new commands appear in the Commands menu, Convert
     Symbol to Flex Component and Convert Symbol to Flex Container.
@@ -180,8 +174,8 @@ To create a Flex component in Flash:
       Flex project.
 
     - Add the SWC file to library path of your Flex project. For more
-      information, see the Flex Builder documentation at
-      [www.adobe.com/go/learn_flexresources_en](https://web.archive.org/web/20111231232914mp_/http://www.adobe.com/go/learn_flexresources_en).
+      information, see the
+      [Flex Builder documentation](https://web.archive.org/web/20100627004209/http://www.adobe.com/support/documentation/en/flex/).
 
 ## Using Flex metadata
 
@@ -209,8 +203,8 @@ button_up.png in the SWF file and that the file should be associated with the
 variable named `buttonUpImage`.
 
 For more information about embedding assets with metadata in Flex, see Embedding
-Assets in the Flex 3 Developer Guide at
-[www.adobe.com/go/learn_flexresources_en](https://web.archive.org/web/20111231232914mp_/http://www.adobe.com/go/learn_flexresources_en).
+Assets in the
+[Flex 3 Developer Guide](https://web.archive.org/web/20100627004209/http://www.adobe.com/support/documentation/en/flex/).
 
 If you use a feature that requires the Flex SDK, such as `[Embed]` metadata, at
 compile time Flash Pro prompts you to add the Flex.SWC file to the Library path

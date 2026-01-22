@@ -10,20 +10,15 @@ use variables to store and retrieve information. ActionScript includes a large
 library of built‑in classes that let you create objects to perform many useful
 tasks. For more information on ActionScript, see the following Help titles:
 
-- _Learning ActionScript 3.0_ at
-  [www.adobe.com/go/learn_flcs5_learnas3_en](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/go/learn_flcs5_learnas3_en)
+- [Learning ActionScript 3.0](http://help.adobe.com/en_US/as3/learn/index.html)
 
-- _ActionScript 3.0 Developer's Guide_ at
-  [www.adobe.com/go/learn_cs5_as3devguide_en](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/go/learn_cs5_as3devguide_en)
+- [ActionScript 3.0 Developer's Guide](http://help.adobe.com/en_US/as3/dev/index.html)
 
-- _ActionScript 3.0 Language and Components Reference_ at
-  [www.adobe.com/go/learn_flcs5_as3lr_en](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/go/learn_flcs5_as3lr_en)
+- [ActionScript 3.0 Language and Components Reference](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html)
 
-- _Learning ActionScript 2.0 in Adobe Flash_ at
-  [www.adobe.com/go/learn_cs5_learningas2_en](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+- [Learning ActionScript 2.0 in Adobe Flash](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 
-- _ActionScript 2.0 Language Reference_ at
-  [www.adobe.com/go/learn_cs5_as2lr_en](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/go/learn_cs5_as2lr_en)
+- [ActionScript 2.0 Language Reference](https://open-flash.github.io/mirrors/as2-language-reference/index.html)
 
 You don't need to understand every ActionScript element to begin scripting; if
 you have a clear goal, you can start building scripts with simple actions.
@@ -86,7 +81,7 @@ version you are working with.
 The following **articles and tutorials** provide additional detailed information
 about working with ActionScript:
 
-- [Introduction to ActionScript 3.0](https://web.archive.org/web/20110820021354mp_/http://goo.gl/2w4c0)
+- [Introduction to ActionScript 3.0](https://web.archive.org/web/20111025171038/http://slekx.com/as3-intro/)
   (Slekx.com)
 
 - [Tips for learning ActionScript 3](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/devnet/actionscript/articles/actionscript_tips.html)
@@ -107,7 +102,7 @@ about working with ActionScript:
 - [ActionScript 3 migration cookbook](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/devnet/actionscript/cookbook/)
   (Adobe.com)
 
-- [ActionScript 3 migration table](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/go/learn_as3_migration_en)
+- [ActionScript 3 migration table](https://web.archive.org/web/20100115142701/http://www.adobe.com/devnet/actionscript/as3_migration_table.html)
   (Adobe.com)
 
 - [Flash and ActionScript components learning guide](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/devnet/flash/articles/components_guide.html)
@@ -143,7 +138,7 @@ There are several ways to work with ActionScript.
   components created by other developers. Most components require you to write
   some ActionScript code of your own to trigger or control a component. For more
   information, see
-  [Using ActionScript 3.0 Components](https://web.archive.org/web/20110820021354mp_/http://www.adobe.com/go/learn_flcs5_usingas3components_en).
+  [Using ActionScript 3.0 Components](https://web.archive.org/web/20110816072725/http://help.adobe.com/en_US/as3/components/index.html).
 
 #### Writing ActionScript
 

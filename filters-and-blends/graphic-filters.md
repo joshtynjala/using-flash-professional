@@ -229,9 +229,8 @@ surface.
 
 <caption>Text with the Drop Shadow filter applied</caption>
 
-For a sample of a drop shadow with a classic tween, see the Flash Samples page
-at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20120109064314mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample of a drop shadow with a classic tween, see the
+[Flash Samples page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 Graphics\AnimatedDropShadow directory.
 

@@ -18,9 +18,8 @@ action on the last frame of one movie clip can tell another movie clip to play.
 To use ActionScript to control a timeline, you must use a target path to specify
 the location of the timeline.
 
-For more information, see the `MovieClip.loadMovie` method in the _[ActionScript
-2.0 Language
-Reference](https://web.archive.org/web/20120117054008mp_/http://www.adobe.com/go/learn_cs5_as2lr_en)\_.
+For more information, see the `MovieClip.loadMovie` method in the
+\_[ActionScript 2.0 Language Reference](https://open-flash.github.io/mirrors/as2-language-reference/index.html)\_.
 
 ## About nested movie clips and parent-child hierarchy
 

@@ -199,12 +199,10 @@ import video that contains captions, or even use an XML caption file. You can
 use video cue points to specify when a text field should update text information
 at runtime.
 
-For information on using Hi-Caption SE and the Hi-Caption Viewer component, see
-[www.adobe.com/go/flash_extensions](https://web.archive.org/web/20111119002906mp_/http://www.adobe.com/go/flash_extensions).
-This third-party extension lets you create captions that you save in an XML file
-and load into the SWF file at runtime, among other advanced controls.
-Alternatively, you can use cue points and a text field to display caption
-information.
+The Hi-Caption SE and the Hi-Caption Viewer component is a third-party extension
+lets you create captions that you save in an XML file and load into the SWF file
+at runtime, among other advanced controls. Alternatively, you can use cue points
+and a text field to display caption information.
 
 ## Accessibility and extending Flash
 
@@ -219,9 +217,6 @@ instances, or if text has a label for the instance, and tells you about any
 problems. The tool also examines the reading order in your SWF file, and finds
 all instances that must be specified. You can specify reading order by using a
 dialog box after the SWF file is analyzed.
-
-For information on the currently available third-party extensions, see
-[www.adobe.com/go/flash_extensions](https://web.archive.org/web/20111119002906mp_/http://www.adobe.com/go/flash_extensions).
 
 ## Testing files and making changes
 
@@ -264,8 +259,7 @@ points:
 
   No official tool is available for validating SWF files, unlike HTML
   validation. However, some third-party tools exist to help you validate the
-  file. For more information on these extensions, see
-  [www.adobe.com/go/flash_extensions](https://web.archive.org/web/20111119002906mp_/http://www.adobe.com/go/flash_extensions).
+  file.
 
 More Help topics
 

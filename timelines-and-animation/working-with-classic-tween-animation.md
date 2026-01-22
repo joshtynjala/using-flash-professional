@@ -39,8 +39,8 @@ Before working with classic tweens, keep in mind the following points:
   motion tween workflow, see the
   [Motion migration guide for Flash](https://web.archive.org/web/20120103080146mp_/http://www.adobe.com/devnet/flash/articles/motion_migration_guide.html).
 
-For samples of classic tween animation, see the Flash Pro Samples page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20120103080146mp_/http://www.adobe.com/go/learn_fl_samples).
+For samples of classic tween animation, see the
+[Flash Pro Samples page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 The following samples are available:
 
 - Animated Drop Shadow: Download and decompress the Samples ZIP file and

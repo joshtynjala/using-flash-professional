@@ -12,7 +12,7 @@ You can write the ActionScript yourself or use the pre-defined behaviors
 included with Flash Pro.
 
 For more information, see Handling events in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120102230800mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 or
 [Handling events](https://web.archive.org/web/20120102230800mp_/http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b90204-7fca.html)
 in the _ActionScript 3.0 Developer's Guide_.
@@ -161,13 +161,12 @@ of your local computer. Behaviors are stored in the following location:
   interface elements (such as dialog boxes), and with ActionScript, the coding
   language used to create behaviors. To learn about the XML used to create
   interface elements, see _Extending Flash_. To learn about ActionScript, see
-  [Learning ActionScript 3.0](https://web.archive.org/web/20120102230800mp_/http://www.adobe.com/go/learn_flcs5_learnas3_en)
+  [Learning ActionScript 3.0](https://web.archive.org/web/20111211032821/http://help.adobe.com/en_US/as3/learn/index.html)
   or
-  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120102230800mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
   You can also download behaviors that other Flash Pro users have created from
-  the Adobe Flash Exchange website. You can visit the Adobe Exchange at:
-  [www.adobe.com/go/flash_exchange](https://web.archive.org/web/20120102230800mp_/http://www.adobe.com/go/flash_exchange/).
+  the Adobe Flash Exchange website.
 
 1.  Using an XML editor, open an existing behavior's XML file, and rename the
     file appropriately for the behavior you intend to create.
@@ -195,9 +194,9 @@ of your local computer. Behaviors are stored in the following location:
     behavior.
 
     If you are new to ActionScript, see
-    [_Learning ActionScript 3.0_](https://web.archive.org/web/20120102230800mp_/http://www.adobe.com/go/learn_flcs5_learnas3_en)
+    [_Learning ActionScript 3.0_](https://web.archive.org/web/20111211032821/http://help.adobe.com/en_US/as3/learn/index.html)
     or
-    [_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120102230800mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+    [_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
     For example (from the Movieclip_loadMovie.xml behavior file) (ActionScript
     2.0):

@@ -181,10 +181,10 @@ embedded and progressively downloaded video:
   delivery options based on the client's connection speed.
 
 To learn more about Flash Media Server, see
-[www.adobe.com/go/flash_media_server](https://web.archive.org/web/20111229165022mp_/http://www.adobe.com/go/flash_media_server).
+[the Adobe Flash Media Server product page](https://web.archive.org/web/20111113122308/http://www.adobe.com/products/flashmediaserver/).
 
 To learn more about Flash Video Streaming Service, see
-[www.adobe.com/go/learn_fvss_en](https://web.archive.org/web/20111229165022mp_/http://www.adobe.com/go/learn_fvss_en).
+[Adobe Media and Advertising Solution Partners](https://web.archive.org/web/20121215232134/http://www.adobe.com/products/flashmediaserver/fvss/).
 
 ## Embed a video file within a Flash file
 
@@ -346,8 +346,8 @@ the following:
 - Import an FLV or F4V file to replace the selected clip
 
 - Export a video clip as an FLV or F4V file For lessons on working with video,
-  see the Adobe Flash Support Center at
-  [www.adobe.com/go/flash_video](https://web.archive.org/web/20111229165022mp_/http://www.adobe.com/go/flash_video).
+  see the
+  [Adobe Flash Video Support Center](https://web.archive.org/web/20130123063419/http://www.adobe.com/devnet/video.html).
 
 #### Change video instance properties in the Property inspector
 

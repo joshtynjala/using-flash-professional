@@ -32,16 +32,6 @@ TLF text provides the following enhancements over Classic text:
   of left-to-right text. This is important for embedding English words or Arabic
   numerals within Arabic/Hebrew text, for example.
 
-## Adobe recommends
-
-> ### ![](../img/todd_perkins.jpg) [Creating text with the Text Layout Framework (TLF)](https://web.archive.org/web/20120101132528mp_/http://goo.gl/n0cCh)
->
-> [Todd Perkins](https://web.archive.org/web/20120101132528mp_/http://www.toddperkins.com/)
->
-> Learn how the Text Layout Framework lets you finely control text properties,
-> flow text across multiple containers, and work with vertical, right-to-left,
-> and multi-language text.
-
 ## About TLF text
 
 ### Before you begin
@@ -209,7 +199,7 @@ deployment scenarios
   performance reasons. If you do, compile the TLF code into the SWF because the
   iPhone cannot load RSLs.
   > **Note:** For more information about how the Flash Player cache works, see
-  > [Improving Flex application performance using the Flash Player cache](https://web.archive.org/web/20120101132528mp_/http://www.adobe.com/go/learn_fl_flash_player_cache_en).The
+  > [Improving Flex application performance using the Flash Player cache](https://web.archive.org/web/20110510133147/http://www.adobe.com/devnet/flex/articles/flash_player_cache.html).The
   > article focuses on Flash Builder, but all of the information about the Flash
   > Player cache applies to Flash Professional as well. When the TLF
   > ActionScript assets are not embedded or available on the local playback

@@ -101,9 +101,9 @@ You can import the following sound file formats into Flash Pro:
 You can add a sound to a document using the library, or you can load a sound
 into a SWF file during runtime, using the `loadSound` method of the Sound
 object. For more information, see `loadSound (Sound.loadSound method)` in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20110926102307mp_/http://www.adobe.com/go/learn_cs5_as2lr_en)
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html)
 or `Sound Class` in the
-[_ActionScript 3.0 Reference_](https://web.archive.org/web/20110926102307mp_/http://www.adobe.com/go/learn_flcs5_as3lr_en).
+[_ActionScript 3.0 Reference_](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html).
 
 1.  Import the sound into the library if it has not already been imported.
 

@@ -56,8 +56,8 @@ animation in a SWF file but it can be processor-intensive, particularly on older
 computers. Test your animations at different frame rates to find the lowest
 frame rate possible.
 
-For a sample of scripted animation, see the Flash Samples web page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20111105041642mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample of scripted animation, see the
+[Flash Samples web page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 ActionScript2.0/Animation folder to access the sample.
 

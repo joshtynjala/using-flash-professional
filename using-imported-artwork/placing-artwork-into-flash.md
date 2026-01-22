@@ -15,7 +15,7 @@ Graphic files that you import into Flash Pro must be at least 2 pixels x
 To load JPEG files into a Flash Pro SWF file during runtime, use the `loadMovie`
 action or method. For detailed information, see loadMovie (MovieClip.loadMovie
 method) in
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120101020625mp_/http://www.adobe.com/go/learn_cs5_as2lr_en)
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html)
 or
 [Working with movie clips](https://web.archive.org/web/20120101020625mp_/http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b90204-7e1d.html)
 in the _ActionScript 3.0 Developer's Guide_.

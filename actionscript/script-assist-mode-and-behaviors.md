@@ -139,8 +139,8 @@ panel
 The behavior is added to the object and is displayed in the Actions panel.
 ![](../img/as_ap_behavior.png) The ActionScript of a behavior
 
-For a sample about behaviors, see the Flash Samples page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20120111023659mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample about behaviors, see the
+[Flash Samples page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 Behaviors\BehaviorsScrapbook folder to access the sample.
 

@@ -91,17 +91,16 @@ Add the following code in your HTML:
 
     <PARAM NAME=movie VALUE="your_ad.swf?clickTAG =http: //helpexamples.com/tracking?http://www.adobe.com">
 
-For more information on advanced tracking techniques, see the Rich Media
-Advertising Center at
-[www.adobe.com/go/rich_media_ads](https://web.archive.org/web/20120101020605mp_/http://www.adobe.com/go/rich_media_ads).
+For more information on advanced tracking techniques, see the
+[Rich Media Advertising Center](https://web.archive.org/web/20120316033634/http://www.adobe.com/devnet/flash/articles/rich_media_ads.html).
 
 To download the Rich Media Tracking Kit, which includes examples and
 documentation, see
-[www.adobe.com/go/richmedia_tracking](https://web.archive.org/web/20120101020605mp_/http://www.adobe.com/go/richmedia_tracking).
+[Tracking Macromedia Flash Movies](https://web.archive.org/web/20120316033638/http://www.adobe.com/resources/richmedia/tracking/).
 
 To learn more about and download the Flash Ad Kit, which helps you deliver
 integrated and sophisticated advertisements, see
-[www.adobe.com/go/learn_fl_flash_ad_kit](https://web.archive.org/web/20120101020605mp_/http://www.adobe.com/go/learn_fl_flash_ad_kit).
+[Building and Deploying Rich Media Video Ads with the Macromedia Flash Ad Kit](https://web.archive.org/web/20080511221733/http://www.adobe.com/devnet/flash/articles/video_ads_fak.html).
 
 ## Testing your ads
 
@@ -114,10 +113,6 @@ information on detecting Flash Player, see
 Give the user control of the SWF file. Let the user control any audio in the ad.
 If the advertisement is a borderless SWF file that hovers over a web page, let
 the user close the advertisement immediately and for the duration of the ad.
-
-For the latest information on Flash Player version penetration for different
-regions, go to
-[www.adobe.com/go/fp_version_penetration](https://web.archive.org/web/20120101020605mp_/http://www.adobe.com/go/fp_version_penetration).
 
 More Help topics
 

@@ -65,7 +65,7 @@ documents and movie clips for printing:
 - All elements must be fully loaded to print. Use the movie clip` _framesloaded`
   property to check whether the printable content is loaded. For more
   information, see \_framesloaded (MovieClip.\_framesloaded property) in the
-  [_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120103062731mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+  [_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ### Using the ActionScript 2.0 PrintJob class
 
@@ -86,7 +86,7 @@ Pro content that is appropriate for the printer settings.
 
 > **Note:** For information on printing from SWF files at runtime using
 > ActionScript 2.0, see
-> [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120103062731mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+> [Learning ActionScript 2.0 in Adobe Flash](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 ### Build a print job
 
@@ -134,7 +134,6 @@ the print job, and send the print job to the printer.
     Only one print job can run at any given time. A second print job cannot be
     created until one of the following events occurs with the previous print
     job:
-
     - The print job is entirely successful and the `PrintJob.send()` method is
       called.
 
@@ -288,7 +287,7 @@ measure.
   scale the movie clip; however, it prints at half the size. For more
   information, see the addPage (PrintJob.addPage method)method of the `printjob`
   class in the
-  [_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120103062731mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+  [_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 #### Specifying printing as a vector image or bitmap graphic
 
@@ -327,7 +326,7 @@ level that you specify as the first parameter when you add a page prints.
 The ActionScript 2.0 PrintJob class, available for Flash Player 7 and later,
 offers many advantages over the `print()` and `printAsBitmap()` methods for
 printing. However, to print targeting Flash Player 6 and earlier versions, back
-to Flash Player 4.0.25 (Windows) and 4.0.20 (Macintosh), use ` print(``) ` and
+to Flash Player 4.0.25 (Windows) and 4.0.20 (Macintosh), use `print(``)` and
 `printAsBitmap()` functions and frame labels.
 
 To set up printing from Flash Player independent of the PrintJob class, specify
@@ -374,7 +373,7 @@ areas:
 
   For more information about `print()` function parameters, see "print function"
   in the
-  [_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120103062731mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+  [_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ### Using the print() function when not using the PrintJob object
 
@@ -398,4 +397,4 @@ If you attach more than one `print()` function to a single button or frame, the
 Print dialog box appears for each action executed.
 
 See also "print function" in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120103062731mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).

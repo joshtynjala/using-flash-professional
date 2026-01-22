@@ -113,7 +113,7 @@ folders in which Flash Pro searches for class definitions is called the
 _classpath_ for ActionScript 2.0 and the _source path_ for ActionScript 3.0.
 Classpaths and source paths exist at the application (global) and document
 level. For more information about classpaths, see Classes in
-[Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120101223847mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+[Learning ActionScript 2.0 in Adobe Flash](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 or
 "[Packages](https://web.archive.org/web/20120101223847mp_/http://help.adobe.com/en_US/as3/learn/WS5b3ccc516d4fbf351e63e3d118a9b90204-7f94.html)"
 in _Learning ActionScript 3.0_.
@@ -121,19 +121,14 @@ in _Learning ActionScript 3.0_.
 You can set the following ActionScript locations in Flash Pro:
 
 - ActionScript 2.0
-
   - Application level (available to all AS2 FLA files):
-
     - Classpath (set in ActionScript preferences)
 
   - Document level (available only to the FLA file that specifies this path):
-
     - Classpath (set in Publish Settings)
 
 - ActionScript 3.0
-
   - Application level (available to all AS3 FLA files):
-
     - Source path (set in ActionScript preferences)
 
     - Library path (set in ActionScript preferences)
@@ -141,7 +136,6 @@ You can set the following ActionScript locations in Flash Pro:
     - External library path (set in ActionScript preferences)
 
   - Document level (available only to the FLA file that specifies these paths):
-
     - Source path (set in Publish Settings)
 
     - Library path (set in Publish Settings)
@@ -171,7 +165,6 @@ To set the document-level classpath:
 3.  Specify the frame where the class definition should reside in the Export
     Frame for Classes text field.
 4.  To add paths to the classpath list, do any of the following:
-
     - To add a folder to the classpath, click the Browse to Path
       button ![](../img/browse_to_path.png), browse to the folder to add, and
       click OK.
@@ -216,7 +209,6 @@ To set the document-level source path:
 6.  Specify ActionScript 3.0 or ECMAScript as the dialect to use. ActionScript
     3.0 is recommended.
 7.  To add paths to the source path list, do any of the following:
-
     - To add a folder to the source path, click the Source path tab and then
       click the Browse To Path button ![](../img/browse_to_path.png), browse to
       the folder to add, and click OK.
@@ -256,7 +248,6 @@ Source path:
     individual SWC files to the path list.
 5.  To set the Link Type property, double-click Link Type in the property tree
     of the path. The choices for Link Type are:
-
     - Merged into code: The code resources found in the path are merged into the
       published SWF file.
 
@@ -354,7 +345,7 @@ that appears with SWF files in Flash Player 7 and later.
   > in Flash Player 7 by using the ContextMenu and ContextMenuItem objects in
   > ActionScript 2.0. For more information on using these objects, see
   > `ContextMenu` in the
-  > [_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120101223847mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+  > [_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 Remember the following conditions when creating custom context menu items for
 Flash Player:

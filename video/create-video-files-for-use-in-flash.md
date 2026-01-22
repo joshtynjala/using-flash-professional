@@ -29,7 +29,7 @@ with the streaming video, use the FLVPlayback component, Adobe® ActionScript®,
 or the
 [Open Source Media Framework](https://web.archive.org/web/20120212222322mp_/http://www.opensourcemediaframework.com/)
 (OSMF). For more information about using the OSMF, see the
-[OSMF documentation](https://web.archive.org/web/20120212222322mp_/http://www.adobe.com/go/learn_fms_docs_en).
+[OSMF documentation](https://web.archive.org/web/20120214144539/http://www.adobe.com/support/documentation/en/flashmediaserver/).
 
 Progressively download video from a web server  
 If you don't have access to Flash Media Server or FVSS, or your video needs are
@@ -74,7 +74,7 @@ create high-quality, full-featured playback experiences. For more information,
 see the
 [OSMF web site](https://web.archive.org/web/20120212222322mp_/http://www.opensourcemediaframework.com/),
 and the
-[OSMF documentation](https://web.archive.org/web/20120212222322mp_/http://www.adobe.com/go/learn_fms_docs_en).
+[OSMF documentation](https://web.archive.org/web/20120214144539/http://www.adobe.com/support/documentation/en/flashmediaserver/).
 The Adobe DevNet article
 [RealEyes OSMF Player Sample - Part 1: Setup and Deployment](https://web.archive.org/web/20120212222322mp_/http://www.adobe.com/devnet/flash/articles/reops_pt1.html)
 provides a detailed example of working with the OSMF.
@@ -153,7 +153,7 @@ custom presets, which you can share with others or reload as needed.
 
 For information on encoding video in the FLV or F4V format using Adobe Media
 Encoder, see
-[Using Adobe Media Encoder](https://web.archive.org/web/20120212222322mp_/http://www.adobe.com/go/learn_amecs5_usingame_en).
+[Using Adobe Media Encoder](https://web.archive.org/web/20120217222933/http://help.adobe.com/en_US/mediaencoder/cs/using/index.html).
 
 ### The H.264, On2 VP6, and Sorenson Spark video codecs
 

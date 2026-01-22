@@ -17,10 +17,10 @@ For detailed information on caching button or movie clip instances see the
 following topics:
 
 - About caching and scrolling movie clips with ActionScript in
-  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111115095941mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 
 - Caching a movie clip in
-  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111115095941mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 
   Use the `cacheAsBitmap` property with movie clips with mostly static content
   and that do not scale and rotate frequently. With such movie clips, using the

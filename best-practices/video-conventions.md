@@ -65,21 +65,21 @@ your server.
 
   > **Note:** For Flash Player and FLV compatibility, see About Using FLV Video
   > in
-  > [_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20111117100428mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+  > [_Learning ActionScript 2.0 in Adobe Flash_](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 - Check that your server supports the mime type for the video files you are
   using, FLV or F4V. For more information on video files on a server, see
-  Configuring your server for FLV files in
-  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111117100428mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+  Configuring your server for FLV files in [Learning ActionScript 2.0 in Adobe
+  Flash]http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 - Check security guidelines.
 
   If you load FLV files from another server, make sure that you have the proper
   files or code in place to load from that external server. For information on
   policy files, see Server-side policy files for permitting access to data in
-  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111117100428mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
   For information about loading and security, see Understanding security in
-  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111117100428mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 - Check your target paths to your video are correct. If you use relative paths
   (such as /video/water.flv), try using absolute paths (such as

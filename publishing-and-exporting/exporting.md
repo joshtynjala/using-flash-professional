@@ -40,7 +40,7 @@ separate folder is created along with the FXG file. This folder has the name
 \<filename.assets\> and contains the bitmap images associated with the FXG file.
 
 For more information about the FXG file format, see the
-[FXG 2.0 Specification](https://web.archive.org/web/20120108001714mp_/http://www.adobe.com/go/learn_fxg_spec20_en).
+[FXG 2.0 Specification](https://web.archive.org/web/20120114054857/http://opensource.adobe.com/wiki/display/flexsdk/FXG+2.0+Specification).
 
 #### FXG export constraints
 

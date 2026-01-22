@@ -22,7 +22,7 @@ another mask.
 To create a mask layer from a movie clip, use ActionScript. A mask layer created
 with ActionScript can be applied only to another movie clip. See Using Movie
 Clips as Masks in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20111117080717mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 > **Note:** The 3D tools cannot be used on objects on mask layers and layers
 > containing 3D objects cannot be used as mask layers. For more information

@@ -49,5 +49,4 @@ ad's design.
 ## Additional resources
 
 For more information on authoring Flash Pro files for mobile devices, see the
-Adobe® Mobile Devices site at
-[www.adobe.com/go/devnet_devices](https://web.archive.org/web/20120210152201mp_/http://www.adobe.com/go/devnet_devices).
+[Adobe® Mobile Devices site](https://web.archive.org/web/20111125223202/http://www.adobe.com/devnet/devices.html).

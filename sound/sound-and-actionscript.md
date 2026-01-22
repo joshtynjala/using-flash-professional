@@ -54,7 +54,7 @@ Use the Sound object in ActionScript 2.0 to add sounds to a document and to
 control sound objects in a document, including adjusting the volume or the right
 and left balance while a sound plays. For more information, see Creating sound
 controls in
-[_Learning ActionScript 2.0 in Flash_](https://web.archive.org/web/20111231232952mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 1.  Select the sound in the Library panel.
 2.  Select Linkage from the Panel menu in the upper-right corner of the panel,
@@ -70,7 +70,7 @@ The `onSoundComplete` event of the ActionScript 2.0 Sound object lets you
 trigger an event in a Flash Pro application based on completing an attached
 sound file. The Sound object is a built-in object that lets you control sounds
 in a Flash Pro application. For more information, see Sound in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20111231232952mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 The `onSoundComplete` event of a Sound object is invoked automatically when the
 attached sound file finishes playing. If the sound is looped a specified number
 of times, the event is triggered when the sound finishes looping.
@@ -111,4 +111,4 @@ properties to function.
 
 For more information on using the ID3 properties, see `id3` (`Sound.id3`
 property) in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20111231232952mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).

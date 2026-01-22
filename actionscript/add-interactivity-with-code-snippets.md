@@ -21,18 +21,6 @@ snippet instructions, you can begin understanding code structure and vocabulary.
 
 ## Before you begin
 
-## Adobe recommends
-
-> ![](../img/Trani.png)
-> [Code snippets and AS3 enhancements](https://web.archive.org/web/20120103091115mp_/http://goo.gl/TuhWK)
->
-> [Paul Trani](https://web.archive.org/web/20120103091115mp_/http://www.paultrani.com/blog/)
->
-> This tutorial takes you through the enhanced code snippets panel in Flash
-> Professional CS5.5. With great new capabilities for those new to ActionScript,
-> this enhanced panel helps you quickly understand and use code snippets as well
-> as save your own custom code snippets for future use.
-
 When working with the Code Snippets panel, it is important to understand these
 fundamentals of Flash:
 

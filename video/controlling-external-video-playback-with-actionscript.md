@@ -37,7 +37,7 @@ available when using imported video:
 
 For more information on playing back FLV or F4V files, see "Playing back
 external FLV files dynamically" in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20111109131151mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 or
 [Basics of video](https://web.archive.org/web/20111109131151mp_/http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b90204-7d50.html)
 in the _ActionScript 3.0 Developer's Guide_.
@@ -306,8 +306,7 @@ using HTTP, or streaming from Flash Media Server using RTMP).
     You can also specify the location of an XML file that describes how to play
     multiple video streams for multiple bandwidths. The XML file uses
     Synchronized Multimedia Integration Language (SMIL) to describe the video
-    files. For a description of the XML SMIL file, see "Using a SMIL file" in
-    the _ActionScript 2.0 Components Language Reference_.
+    files.
 
 ## Media components (Flash Player 6 and 7)
 

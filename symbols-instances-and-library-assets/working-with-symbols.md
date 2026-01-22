@@ -56,7 +56,7 @@ Timeline. When you create a symbol you choose the symbol type.
   respond to mouse clicks, rollovers, or other actions. You define the graphics
   associated with various button states, and then assign actions to a button
   instance. For more information, see Handling events in
-  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120104100145mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+  [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
   or
   [Handling events](https://web.archive.org/web/20120104100145mp_/http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b90204-7fca.html)
   in the _ActionScript 3.0 Developer's Guide_.
@@ -74,9 +74,7 @@ Timeline. When you create a symbol you choose the symbol type.
   Flash Pro provides built‑in _components_, movie clips with defined parameters,
   that you can use to add user interface elements, such as buttons, checkboxes,
   or scroll bars, to your documents. For more information, see About Components
-  in
-  [Using ActionScript 2.0 Components](https://web.archive.org/web/20120104100145mp_/http://www.adobe.com/go/learn_cs5_usingas2components_en),
-  or
+  in _Using ActionScript 2.0 Components_, or
   [About ActionScript 3.0 Components](https://web.archive.org/web/20120104100145mp_/http://help.adobe.com/en_US/as3/components/WS5b3ccc516d4fbf351e63e3d118a9c64d27-7ff4.html)
   in _Using ActionScript 3.0 Components_.
 

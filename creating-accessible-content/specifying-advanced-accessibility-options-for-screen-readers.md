@@ -28,7 +28,6 @@ When an object is hidden, the screen reader ignores the object.
     reader.
 2.  Select Window \> Other Panels \> Accessibility.
 3.  In the Accessibility panel, do one of the following:
-
     - If the object is a movie clip, button, text field, or another object,
       deselect Make Object Accessible.
 
@@ -46,8 +45,8 @@ To create a keyboard shortcut, write ActionScript code for an object. If you
 provide a keyboard shortcut for an input text field or button, you must also use
 the ActionScript Key class to detect the key the user presses during Flash
 content playback. See Key in the _ActionScript 2.0 Language Reference_. See
-Capturing keypresses in _Learning ActionScript 2.0 in Adobe Flash_ at
-[www.adobe.com/go/learn_cs5_learningas2_en](https://web.archive.org/web/20110128165312mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+Capturing keypresses in
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 Select the object and add the name of the keyboard shortcut to the Accessibility
 panel so the screen reader can read it.
@@ -66,7 +65,6 @@ readers increasingly use even these keys.
 2.  Select Window \> Other Panels \> Accessibility.
 3.  In the Shortcut field, type the name of the keyboard shortcut, using the
     following conventions:
-
     - Spell out key names, such as Control or Alt.
 
     - Use capital letters for alphabetic characters.
@@ -108,8 +106,8 @@ shortcut was created.
 > an instance name of myButton and makes information about the shortcut
 > available to screen readers. In this example, when you press Control+7, the
 > `myOnPress` function displays the text "hello" in the Output panel. See
-> addListener (IME.addListener method) in ActionScript 2.0 Language Reference at
-> [www.adobe.com/go/learn_cs5_as2lr_en](https://web.archive.org/web/20110128165312mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+> addListener (IME.addListener method) in
+> [_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 More Help topics
 

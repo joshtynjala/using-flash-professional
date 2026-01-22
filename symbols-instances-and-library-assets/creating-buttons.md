@@ -83,24 +83,24 @@
 
 ## Adobe recommends
 
-> ### ![](../img/Flashthusiast_monkey.png) [Buttons in Flash](https://web.archive.org/web/20120104083501mp_/http://goo.gl/g27rn)
+> ### ![](../img/Flashthusiast_monkey.png) [Buttons in Flash](https://web.archive.org/web/20111123091847/http://flashthusiast.com/2008/02/25/making-a-button-work-in-flash-cs3-with-actionscript-30-its-not-too-bad/)
 >
 > [Flashthusiast.com](https://web.archive.org/web/20120104083501mp_/http://flashthusiast.com/)
 >
 > How to make a button open a web page using ActionScript 3</span></td>
 
-> ### ![](../img/Flashthusiast_thumbs-up.png) [Multiple buttons](https://web.archive.org/web/20120104083501mp_/http://goo.gl/MfUfm)
+> ### ![](../img/Flashthusiast_thumbs-up.png) [Multiple buttons](https://web.archive.org/web/20111128064127/http://flashthusiast.com/2008/03/13/adding-more-than-one-button-to-a-fla-file-while-rocking-it-in-actionscript-30)
 >
 > [Flashthusiast.com](https://web.archive.org/web/20120104083501mp_/http://www.flashthusiast.com/)
 > Creating multiple buttons on the stage at once using ActionScript 3
 
-> ### ![](../img/Kirupa.png) [Button symbols in Flash](https://web.archive.org/web/20120104083501mp_/http://goo.gl/i1fSt)
+> ### ![](../img/Kirupa.png) [Button symbols in Flash](https://web.archive.org/web/20111211135128/http://www.kirupa.com/developer/flashcs4/buttons_pg1.htm)
 >
 > [Kirupa](https://web.archive.org/web/20120104083501mp_/http://www.kirupa.com/me/index.htm)
 >
 > How to make button symbols. Includes some ActionScript 3.
 
-> ### [Linking buttons to scenes](https://web.archive.org/web/20120104083501mp_/http://goo.gl/i1zes)
+> ### [Linking buttons to scenes](https://web.archive.org/web/20111126040712/http://flashthusiast.com/2008/07/31/creating-buttons-that-link-to-different-scenes-using-actionscript-30/)
 >
 > [Flashthusiast.com](https://web.archive.org/web/20120104083501mp_/http://www.flashthusiast.com/)
 >

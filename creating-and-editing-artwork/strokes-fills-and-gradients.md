@@ -19,8 +19,8 @@ Adobe® Flash® Professional CS5 provides additional control over linear and
 radial gradients for use with Flash Player. These controls, called overflow
 modes, let you specify how colors are applied beyond the gradient.
 
-For a sample of gradients, see the Flash Samples page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20120108051836mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample of gradients, see the
+[Flash Samples page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 Graphics\AnimationAndGradients folder to access the sample.
 

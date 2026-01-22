@@ -230,7 +230,7 @@ instead are writing ActionScript code for the connectivity layer of your
 application, you can use the Web Services panel to manage your web services.
 
 For detailed information about using the web services panel, see
-[www.adobe.com/go/learn_fl_web_services](https://web.archive.org/web/20120102130516mp_/http://www.adobe.com/go/learn_fl_web_services).
+[Data Integration PDF](https://web.archive.org/web/20100615184118/http://livedocs.adobe.com/flash/9.0/main/fl_data_integration.pdf).
 
 More Help topics
 

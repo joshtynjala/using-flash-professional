@@ -73,7 +73,7 @@ To add bitmaps to a document at runtime, use the ActionScript® 2.0 or the
 ActionScript 3.0 `BitmapData` command. To do so, specify a linkage identifier
 for the bitmap. For more information, see Assigning linkage to assets in the
 library in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120104100159mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 or
 [Exporting library symbols for ActionScript](https://web.archive.org/web/20120104100159mp_/http://help.adobe.com/en_US/as3/dev/WS5b3ccc516d4fbf351e63e3d118a9b8ea63-7fee.html)
 in the _ActionScript 3.0 Developer's Guide_.

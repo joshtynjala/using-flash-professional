@@ -24,8 +24,7 @@ separate purpose:
   in a web page. When you publish your FLA file, Flash Pro creates a SWF file.
 
   The Flash Pro SWF file format is an open standard that other applications
-  support. For more information about Flash Pro file formats, see
-  [www.adobe.com/go/flashplayer](https://web.archive.org/web/20120101020635mp_/http://www.adobe.com/go/flashplayer).
+  support.
 
 - **AS files** are ActionScript files—you can use these to keep some or all of
   your ActionScript code outside of your FLA files, which is helpful for code
@@ -665,7 +664,3 @@ More Help topics
 [Printing at runtime](../actionscript/printing-at-runtime.md)
 
 [Publishing overview](../publishing-and-exporting/publishing-flash-documents.md#publishing-overview)
-
-[Using Device Central with Flash](https://web.archive.org/web/20120101020635mp_/http://www.adobe.com/go/vid0186)
-
-[Creating mobile content in Flash](https://web.archive.org/web/20120101020635mp_/http://www.adobe.com/go/vid0206)

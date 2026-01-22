@@ -63,9 +63,7 @@ improve the appearance of AI files imported into Flash Pro:
 You can move Illustrator artwork into the Flash editing environment or directly
 into Flash Player. You can copy and paste artwork, save files in SWF format, or
 export artwork directly to Flash. In addition, Illustrator provides support for
-Flash dynamic text and movie clip symbols. For a video on using Flash and
-Illustrator together, see
-[www.adobe.com/go/lrvid4099_xp](https://web.archive.org/web/20120101152011mp_/http://www.adobe.com/go/lrvid4099_xp).
+Flash dynamic text and movie clip symbols.
 
 You can also use Device Central to see how Illustrator artwork will appear in
 Flash Player on different handheld devices.

@@ -19,7 +19,7 @@ To use ActionScript to control a timeline, you must use a target path to specify
 the location of the timeline.
 
 For more information, see the `MovieClip.loadMovie` method in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120117054008mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ## About nested movie clips and parent-child hierarchy
 

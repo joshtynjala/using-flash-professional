@@ -95,9 +95,9 @@ After Effects together:
   After Effects in terms that a Flash user can understand.
   [http://www.peachpit.com/articles/article.aspx?p=1350894](https://web.archive.org/web/20120112062907mp_/http://www.peachpit.com/articles/article.aspx?p=1350894)
 
-- Tom Green provides a detailed article titled IntegratingFlash Professional CS4
-  with After Effects CS4 in the Flash Developer Center:
-  [http://www.adobe.com/go/learn_aefl_integrating_fl_ae_en](https://web.archive.org/web/20120112062907mp_/http://www.adobe.com/go/learn_aefl_integrating_fl_ae_en)
+- Tom Green provides a detailed article titled
+  [Integrating Flash Professional CS4 with After Effects CS4](https://web.archive.org/web/20120116132745/http://www.adobe.com/devnet/flash/articles/integrating_fl_ae.html)
+  in the Flash Developer Center.
 
 #### Exporting QuickTime video from Flash
 

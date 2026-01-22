@@ -10,15 +10,15 @@ accessibility. As you design accessible Flash applications, consider how users
 might interact with the content and follow recommended design and development
 practices.
 
-For a sample of accessible rich media content, see the Flash Samples page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20101031170653mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample of accessible rich media content, see the
+[Flash Samples page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 Accessibility\AccessibleApplications folder to access the sample.
 
 For the latest information on creating and viewing accessible Flash content,
 including supported platforms, screen reader compatibility, articles, and
-accessible examples, see the Flash Accessibility web page at
-[www.adobe.com/go/flash_accessibility/](https://web.archive.org/web/20101031170653mp_/http://www.adobe.com/go/flash_accessibility/).
+accessible examples, see the
+[Flash Accessibility web page](https://web.archive.org/web/20101005081148/http://www.adobe.com/accessibility/products/flash/).
 
 ## Worldwide accessibility standards
 
@@ -165,12 +165,10 @@ Methods to add captions to a Flash document include the following:
   audio in the Timeline.
 
 - Use Hi-Caption Viewer, a component available from Hi Software that works with
-  Hi-Caption SE for use with Flash (see
-  [www.adobe.com/go/accessible_captions](https://web.archive.org/web/20101031170653mp_/http://www.adobe.com/go/accessible_captions)).
-  _Captioning Macromedia Flash Movies with Hi-Caption SE_, a white paper,
-  explains how to use Hi-Caption SE and Flash together to create a captioned
-  document (see
-  [www.adobe.com/go/accessibility_papers](https://web.archive.org/web/20101031170653mp_/http://www.adobe.com/go/accessibility_papers)).
+  Hi-Caption SE for use with Flash. _Captioning Macromedia Flash Movies with
+  Hi-Caption SE_, a white paper, explains how to use Hi-Caption SE and Flash
+  together to create a captioned document (see
+  [Accesibility White Papers](https://web.archive.org/web/20080411234356/http://www.adobe.com/macromedia/accessibility/whitepapers/)).
 
 ## Provide animation accessibility for the visually impaired
 

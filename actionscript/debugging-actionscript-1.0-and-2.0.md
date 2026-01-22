@@ -118,7 +118,6 @@ use a debugging password to protect your work.
 
 5.  Close the Publish Settings dialog box, and select one of the following
     commands:
-
     - Debug \> Debug Movie \> Debug
 
     - File \> Export \> Export Movie
@@ -166,7 +165,6 @@ use a debugging password to protect your work.
     select Debugger.
 
 4.  In the Remote Debug dialog box, select Localhost or Other Machine:
-
     - Select Localhost if the debugger version of Flash Player and the Flash
       authoring application are on the same computer.
 
@@ -490,15 +488,16 @@ line 3.
     8 mover = 0;
 
 > **Note:** The numbers in this code snippet denote line numbers. They are not
-> part of the code. Step Out ![](../img/step_out.png)  
-> Advances the Debugger out of a function. This button works only if you are
-> currently stopped in a user-defined function; it moves the yellow arrow to the
-> line that follows the function call. In the previous example, if you place a
-> breakpoint at line 3 and click Step Out, the Debugger moves to line 8.
-> Clicking Step Out at a line that is not within a user-defined function is the
-> same as clicking Continue. For example, if you stop at line 6 and click Step
-> Out, the player continues to execute the script until it encounters a
-> breakpoint.
+> part of the code.
+
+Step Out ![](../img/step_out.png)  
+Advances the Debugger out of a function. This button works only if you are
+currently stopped in a user-defined function; it moves the yellow arrow to the
+line that follows the function call. In the previous example, if you place a
+breakpoint at line 3 and click Step Out, the Debugger moves to line 8. Clicking
+Step Out at a line that is not within a user-defined function is the same as
+clicking Continue. For example, if you stop at line 6 and click Step Out, the
+player continues to execute the script until it encounters a breakpoint.
 
 Step Over ![](../img/step_over.png)  
 Advances the Debugger over a line of code. This button moves the yellow arrow to
@@ -524,7 +523,6 @@ error.
 2.  Click the Flash tab.
 3.  Click the ActionScript Settings button.
 4.  Select among the Errors options:
-
     - Strict Mode causes warnings to be reported as errors, which means that
       compilation will not succeed if those errors exist.
 
@@ -542,7 +540,7 @@ If you use the `trace()` statement in your scripts, you can send specific
 information to the Output panel as the SWF file runs. This could include notes
 about the SWF file's status or the value of an expression. For more information,
 see the `trace()` function in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20111228214543mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ### Display or hide the Output panel
 

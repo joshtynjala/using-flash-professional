@@ -145,7 +145,7 @@ bitmap caching is only noticeable on complex-content movie clips. Runtime bitmap
 caching with simple movie clips does not enhance performance.
 
 For more information, see When to enable caching in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120102130455mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 Guy Watson has written a detailed article about using bitmap caching in the
 Flash Pro Developer Center titled

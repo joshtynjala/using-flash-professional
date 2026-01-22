@@ -34,7 +34,7 @@ You can preserve rich text formatting in text fields, using HTML tags and
 attributes. When you use HTML text for the content of a dynamic or input text
 field, the text can flow around an image, such as a SWF or JPEG file or a movie
 clip. See Using HTML-formatted text in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120102171708mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 Like movie clip instances, text field instances are ActionScript® objects that
 have properties and methods. By giving a text field an instance name, you can
@@ -45,7 +45,7 @@ You can use ActionScript to format input and dynamic text, and to create
 scrolling text fields. ActionScript has events for dynamic and input text fields
 that you can capture and use to trigger scripts. For information on using
 ActionScript to control text, see Working with Text and Strings in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120102171708mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 ## About classic text fields
 
@@ -650,14 +650,14 @@ There are several ways to create scrolling text in Flash Pro:
   `TextField` class.
 
 - Add an ActionScript 2.0 ScrollBar component to a text field to make it scroll.
-  For more information, see "UIScrollBar Component" in the
-  [_ActionScript 2.0 Components Language Reference_](https://web.archive.org/web/20120102171708mp_/http://www.adobe.com/go/learn_cs5_as2complangref_en).
+  For more information, see "UIScrollBar Component" in the _ActionScript 2.0
+  Components Language Reference_.
 
 - In ActionScript 2.0, use the TextField object's `scroll` and `maxscroll`
   properties to control vertical scrolling and the `hscroll` and `maxhscroll`
   properties to control horizontal scrolling in a text field. See Example:
   Creating scrolling text in
-  [_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120102171708mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+  [_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 ### Make dynamic text scrollable
 
@@ -688,10 +688,10 @@ the rectangular bounding box of the mask, not the shape of the mask itself.
 
 For more information on using a movie clip as a mask, see Using movie clips as
 masks in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120102171708mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
-For a sample of device font masking, see the Flash Samples web page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20120102171708mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample of device font masking, see the
+[Flash Samples web page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 Masking\DeviceFontMasking folder to access the sample.
 

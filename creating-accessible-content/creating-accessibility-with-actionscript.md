@@ -6,9 +6,8 @@
 
 You can create accessible documents with ActionScript® code. For accessibility
 properties that apply to the entire document, you can create or modify a global
-variable called `_accProps`. See the `_accProps` property in _ActionScript 2.0
-Language Reference_ at
-[www.adobe.com/go/learn_cs5_as2lr_en](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+variable called `_accProps`. See the `_accProps` property in
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 For properties that apply to a specific object, you can use the syntax
 `instancename._accProps`. The value of `_accProps` is an object that can include
@@ -95,7 +94,7 @@ a single call to `Accessiblity.updateProperties` (too frequent updates to the
 screen reader can cause some screen readers to become too verbose).
 
 See the `Accessibility.updateProperties` method in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ## Implementing screen reader detection with the Accessibility.isActive() method
 
@@ -105,7 +104,7 @@ value of `true` if a screen reader is present, and `false` otherwise. You can
 then design your Flash content to perform so that it's compatible with screen
 reader use (for example, by hiding child elements from the screen reader). For
 more information, see the `Accessibility.isActive` method in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 For example, you could use the `Accessibility.isActive()` method to decide
 whether to include unsolicited animation. Unsolicited animation happens without
@@ -165,14 +164,13 @@ the following example shows:
     _this.myOption1.btn.tabIndex = 1
     _this.myOption2.txt.tabIndex = 2
 
-See `tabIndex`in `Button`, `MovieClip`, and `TextField` in the _ActionScript 2.0
-Language Reference_ at
-[www.adobe.com/go/learn_cs5_as2lr_en](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+See `tabIndex`in `Button`, `MovieClip`, and `TextField` in the
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 You can also use the `tabChildren()` or `tabEnabled()` methods to assign custom
 tab order. See `MovieClip.tabChildren`, `MovieClip.tabEnabled`, and
-`TextField.tabEnabled` in the _ActionScript 2.0 Language Reference_ at
-[www.adobe.com/go/learn_cs5_as2lr_en](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+`TextField.tabEnabled` in the
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ## Using accessible components
 
@@ -206,12 +204,11 @@ accessible components:
 
 Accessible Flash components must contain ActionScript that defines their
 accessible behavior. For information on which accessible components work with
-screen readers, see the Flash Accessibility web page at
-[www.adobe.com/go/flash_accessibility/](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/flash_accessibility/).
+screen readers, see the
+[Flash Accessibility web page](https://web.archive.org/web/20101005081148/http://www.adobe.com/accessibility/products/flash//).
 
 For general information about components, see "About Components" in _Using
-ActionScript 2.0 Components_ at
-[www.adobe.com/go/learn_cs5_usingas2components_en](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/learn_cs5_usingas2components_en).
+ActionScript 2.0 Components_.
 
 For each accessible component, enable the accessible portion of the component
 with the `enableAccessibility()` command. This command includes the
@@ -222,9 +219,8 @@ accessibility for each component. Perform this step only once for each
 component; you do not need to enable accessibility for each instance of a
 component for a given document. See "Button component", "CheckBox component",
 "ComboBox component", "Label component", "List component", "RadioButton
-component", and "Window component" in the _ActionScript 2.0 Components Language
-Reference_ at
-[www.adobe.com/go/learn_cs5_as2lr_en](https://web.archive.org/web/20110221135437mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+component", and "Window component" in the
+[_ActionScript 2.0 Components Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 More Help topics
 

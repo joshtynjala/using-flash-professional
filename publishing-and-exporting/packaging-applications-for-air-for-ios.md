@@ -9,7 +9,7 @@ AIR applications, see
 [AIR system requirements](https://web.archive.org/web/20120101050904mp_/http://www.adobe.com/products/air/systemreqs/).
 
 For detailed instructions about packaging Flash applications for the iPhone, see
-[Building Adobe AIR Applications with the Packager for iPhone](https://web.archive.org/web/20120101050904mp_/http://www.adobe.com/go/learn_cs5_iPhone_en)
+[Building Adobe AIR Applications with the Packager for iPhone](https://web.archive.org/web/20220120193053/http://help.adobe.com/en_US/as3/iphone/index.html)
 
 ## Tutorials
 

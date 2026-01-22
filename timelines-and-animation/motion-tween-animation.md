@@ -2,15 +2,6 @@
 
 ## About tween animation
 
-## Adobe recommends
-
-> ### ![](../img/Carr.png) [Create Animation in Flash](http://goo.gl/Gs1mt)
->
-> [Dan Carr](http://www.dancarrdesign.com/)
->
-> Developer and trainer Dan Carr demos the motion workflow and Motion Editor by
-> creating motion tweens, bending motion guides, and copying motion presets.
-
 ### Before you begin
 
 > **Note:** Like most things in Flash, animation does not require any
@@ -1253,12 +1244,13 @@ F.
 Add or Remove Keyframe button
 
 G.  
-Next Keyframe button When you select a tween span in the Timeline or a tweened
-object or motion path on the Stage, the Motion Editor displays the property
-curves of the tween. The Motion Editor displays the property curves on a grid
-representing the frames of the Timeline in which the selected tween occurs. The
-playhead appears in both the Timeline and the Motion Editor, always in the same
-frame number.
+Next Keyframe button
+
+When you select a tween span in the Timeline or a tweened object or motion path
+on the Stage, the Motion Editor displays the property curves of the tween. The
+Motion Editor displays the property curves on a grid representing the frames of
+the Timeline in which the selected tween occurs. The playhead appears in both
+the Timeline and the Motion Editor, always in the same frame number.
 
 The Motion Editor represents tweened property values using a two-dimensional
 graph for each property. Each property has its own graph. Each graph represents

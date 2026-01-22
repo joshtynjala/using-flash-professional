@@ -18,10 +18,6 @@ your content on the actual device to evaluate the trueness of colors, text
 readability, physical interactions, UI responsiveness, and other aspects of the
 real mobile experience.
 
-For more tips and techniques for creating content for mobile phones and devices,
-see
-[www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
-
 ## Flash Lite guidelines for animation in mobile devices
 
 When creating animated content for a mobile devices, keep device CPU limitations
@@ -77,9 +73,7 @@ running slowly:
 - Similarly, do not try to hide a movie clip by obscuring it behind another
   piece of artwork. It will still be included in the player's calculations.
   Instead, move movie clips completely off the Stage or remove them by calling
-  `removeMovieClip`. For more tips and techniques for creating content for
-  mobile phones and devices, see
-  [www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
+  `removeMovieClip`.
 
 ## Flash Lite bitmap and vector graphics in mobile devices
 
@@ -145,18 +139,10 @@ Keep these considerations in mind:
   implement different renderers for bitmap and vector content, and switching
   between renderers takes time.
 
-For more tips and techniques for creating content for mobile phones and devices,
-see
-[www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
-
 ## Set compression of Flash Lite bitmaps for mobile devices
 
 When using bitmaps, you can set image-compression options (on a per-image basis
 or globally for all bitmap images) that reduce SWF file size.
-
-For more tips and tricks about using Adobe Device Central with other Adobe
-products, see
-[www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
 
 ### Set compression options for an individual bitmap file
 
@@ -169,7 +155,6 @@ products, see
     Bitmap Properties dialog box.
 
 4.  In the Compression pop‑up menu, select one of the following options:
-
     - Select the Photo (JPEG) option for images with complex color or tonal
       variations, such as photographs or images with gradient fills. This option
       produces a JPEG file. Select the Use Imported JPEG Data check box to use
@@ -216,10 +201,6 @@ products, see
   makes sense on the desktop, preloading on a mobile device can delay file
   startup. Space content throughout the file so that movie clips are initialized
   as they are used.
-
-For more tips and techniques for creating content for mobile phones and devices,
-see
-[www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
 
 ## Optimizing ActionScript for Flash Lite content on mobile devices
 
@@ -320,9 +301,7 @@ on mobile devices:
   these values slows performance. If you must use the Math routines, consider
   precalculating the values and storing them in an array of variables.
   Retrieving the values from a data table is much faster than having Flash
-  calculate them at run time. For more tips and techniques for creating content
-  for mobile phones and devices, see
-  [www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
+  calculate them at run time.
 
 ## Managing Flash Lite file memory for mobile devices
 
@@ -391,10 +370,6 @@ that a local function variable uses. Instead, set the variable reference to
     // Call func() function.
     func();
 
-For more tips and techniques for creating content for mobile phones and devices,
-see
-[www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
-
 ## Loading data for mobile devices in Flash Lite
 
 When developing files for mobile devices, minimize the amount of data you
@@ -419,10 +394,6 @@ on a variety of target devices.
 For optimum performance, avoid loading and parsing XML files if possible.
 Instead, store data in simple name/value pairs and load the data from a text
 file using `loadVars` or from precompiled SWF files.
-
-For more tips and techniques for creating content for mobile phones and devices,
-see
-[www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).
 
 ## Exclude classes from compilation for Flash Lite
 
@@ -456,7 +427,3 @@ classes helps avoid duplicating classes in those files.
             <asset name="mx.core.UIObject" />
             <asset name="mx.screens.Slide" />
         </excludeAssets>
-
-    For more tips and techniques for creating content for mobile phones and
-    devices, see
-    [www.adobe.com/go/learn_cs_mobilewiki_en](https://web.archive.org/web/20120102084434mp_/http://www.adobe.com/go/learn_cs_mobilewiki_en).

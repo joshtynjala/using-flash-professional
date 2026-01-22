@@ -18,32 +18,21 @@ one of the following:
 
 ## Learning ActionScript
 
-## Adobe recommends
-
-> ### ![](../../img/flash-downunder40.jpg) [ActionScript 3 101](https://web.archive.org/web/20111117151647mp_/http://goo.gl/3iyWF)
->
-> <a href="https://web.archive.org/web/20111117151647mp_/http://www.mad.com.au/blog/">Paul
-> Burnett</a>
->
-> Paul walks you through you a brief introduction to AS3. This episode is very
-> simple and helps you get started using event listeners in Flash so you can
-> begin adding interaction to your Flash projects.
-
 This article is about using the functionality of the Actions panel in Flash
 Professional, not about writing ActionScript code.
 
 To learn about writing ActionScript, use these resources:
 
-- [Learning ActionScript 3.0](https://web.archive.org/web/20111117151647mp_/http://www.adobe.com/go/learn_flcs5_learnas3_en)
+- [Learning ActionScript 3.0](https://web.archive.org/web/20111211032821/http://help.adobe.com/en_US/as3/learn/index.html)
 
-- [ActionScript 3.0 Language and Components Reference](https://web.archive.org/web/20111117151647mp_/http://www.adobe.com/go/learn_flcs5_as3lr_en)
+- [ActionScript 3.0 Language and Components Reference](https://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html)
 
 - [Introduction to ActionScript 3.0](https://web.archive.org/web/20111117151647mp_/http://slekx.com/as3-intro/)
   (Slekx.com)
 
-- [Learning ActionScript 2.0 in Adobe Flash](https://web.archive.org/web/20111117151647mp_/http://www.adobe.com/go/learn_cs5_learningas2_en)
+- [Learning ActionScript 2.0 in Adobe Flash](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html)
 
-- [ActionScript 2.0 Language Reference](https://web.archive.org/web/20111117151647mp_/http://www.adobe.com/go/learn_cs5_as2lr_en)
+- [ActionScript 2.0 Language Reference](https://open-flash.github.io/mirrors/as2-language-reference/index.html)
 
   > **Note:** ActionScript 3.0 and 2.0 are not compatible with each other. You
   > must choose only one version to use in each FLA file you create.

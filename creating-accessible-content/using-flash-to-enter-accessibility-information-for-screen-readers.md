@@ -102,11 +102,11 @@ Creates a tab order in which objects are accessed when the user presses the tab
 key. The tab index feature works for keyboard navigation through a page, but not
 for screen reader reading order.
 
-For more information, see the Flash Pro Accessibility web page at
-[www.adobe.com/go/learn_flash_accessibility_en/](https://web.archive.org/web/20110817060441mp_/http://www.adobe.com/go/learn_flash_accessibility_en/).
+For more information, see the
+[Flash Pro Accessibility web page](https://web.archive.org/web/20101005081148/http://www.adobe.com/accessibility/products/flash/).
 
-For a sample of accessible rich media content, see the Flash Samples page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20110817060441mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample of accessible rich media content, see the
+[Flash Samples page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 Accessibility\AccessibleApplications folder to access the sample.
 
@@ -176,9 +176,8 @@ inaccessible.
 > instance name or ActionScript variable name associated with the object. (This
 > information generally applies to all objects.) For information on how
 > ActionScript handles instance names and variable names in text fields, see
-> About text field instance and variable names in _Learning ActionScript 2.0 in
-> Adobe Flash_ at
-> [www.adobe.com/go/learn_cs5_learningas2_en](https://web.archive.org/web/20110817060441mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+> About text field instance and variable names in
+> [_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 ### Specify a name and description for a button, text field, or entire SWF application
 

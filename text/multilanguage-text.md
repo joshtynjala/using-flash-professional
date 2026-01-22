@@ -42,8 +42,8 @@ You can include multilanguage text in your document in the following ways:
   For Unicode-encoded text to appear correctly, users must have access to fonts
   containing the glyphs (characters) used in that text.
 
-For a sample of multilingual content, see the Flash Samples page at
-[www.adobe.com/go/learn_fl_samples](https://web.archive.org/web/20120113163334mp_/http://www.adobe.com/go/learn_fl_samples).
+For a sample of multilingual content, see the
+[Flash Samples page](https://web.archive.org/web/20120102164641/http://www.adobe.com/devnet/flash/samples.html).
 Download and decompress the Samples zip file and navigate to the
 Text\MultilingualContent folder to access the sample.
 
@@ -178,7 +178,7 @@ external text files used in your Flash Pro applications, encode all external
 text files as Unicode and leave the `system.useCodepage` property set to `false`
 by default. This causes Flash Player to interpret the text as Unicode. For more
 information, see useCodepage (System.useCodepage property) in the
-[_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120113163334mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+[_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ### Text encoding
 
@@ -520,7 +520,7 @@ viewing content.
 
 For information on writing ActionScript code to create custom language
 detection, see About the Strings panel in
-[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120113163334mp_/http://www.adobe.com/go/learn_cs5_learningas2_en).
+[_Learning ActionScript 2.0 in Adobe Flash_](https://web.archive.org/web/20120116125748/http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/2/help.html?content=Part1_Learning_AS2_1.html).
 
 1.  Select Window \> Other Panels \> Strings, and click Settings.
 
@@ -743,7 +743,7 @@ the encoding:
     - Use the `XML` object (a predefined client-server object) to load an
       external XML file from a specified URL. For more information, see XML in
       the
-      [_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120113163334mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+      [_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ### Create multilanguage documents using the \#include action
 
@@ -773,7 +773,7 @@ following header as the first line of the file:
 4.  Save the text file in UTF‑8 format.
 5.  To include the external file in the dynamic or input text field, use the
     `#include` directive. For more information, see `#include` directive in the
-    [_ActionScript 2.0 Language Reference_](https://web.archive.org/web/20120113163334mp_/http://www.adobe.com/go/learn_cs5_as2lr_en).
+    [_ActionScript 2.0 Language Reference_](https://open-flash.github.io/mirrors/as2-language-reference/index.html).
 
 ### Creating multilanguage documents by using text variables
 
@@ -808,8 +808,8 @@ documents by using HTTP `GET` operations, `POST` operations, or both. It acts as
 a connector between other components and external XML documents. The
 XMLConnector communicates with components in your application by using either
 data-binding features in the Flash authoring environment or ActionScript code.
-For more information, see XML Connector component in the
-[ActionScript 2.0 Components Language Reference](https://web.archive.org/web/20120113163334mp_/http://www.adobe.com/go/learn_cs5_as2complangref_en).
+For more information, see XML Connector component in the _ActionScript 2.0
+Components Language Reference_.
 
 More Help topics
 
