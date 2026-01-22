@@ -1,0 +1,17 @@
+# Creating and Editing Artwork
+
+- [Drawing in Flash](./drawing-in-flash/index.md)
+- [Drawing preferences](./drawing-in-flash/drawing-preferences.md)
+- [Draw simple lines and shapes](./drawing-in-flash/draw-simple-lines-and-shapes.md)
+- [Drawing with the Pen tool](./drawing-in-flash/drawing-with-the-pen-tool.md)
+- [Apply patterns with the Spray Brush tool](./drawing-in-flash/apply-patterns-with-the-spray-brush-tool.md)
+- [Drawing patterns with the Decorative drawing tool](./drawing-in-flash/drawing-patterns-with-the-decrative-drawing-tool.md)
+- [Reshape lines and shapes](./reshape-lines-and-shapes.md)
+- [Transforming and combining graphic objects](./transforming-and-combining-graphic-objects.md)
+- [Selecting objects](./selecting-objects.md)
+- [Arranging objects](./arranging-objects.md)
+- [Snapping art into position](./snapping-art-into-position.md)
+- [Moving and copying objects](./moving-and-copying-objects.md)
+- [Color](./color.md)
+- [Strokes, fills, and gradients](./strokes-fills-and-gradients.md)
+- [3D graphics](./3d-graphics.md)

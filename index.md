@@ -1,0 +1,16 @@
+# Using Flash Professional: Table of Contents
+
+- [Workspace](./workspace/index.md)
+- [Managing documents](./managing-documents/index.md)
+- [Using imported artwork](./using-imported-artwork/index.md)
+- [Creating and Editing Artwork](./creating-and-editing-artwork/index.md)
+- [Symbols, instances, and library assets](./symbols-instances-and-library-assets/index.md)
+- [Timelines and Animation](./timelines-and-animation/index.md)
+- [Filters and Blends](./filters-and-blends/index.md)
+- [Text](./text/index.md)
+- [Sound](./sound/index.md)
+- [Video](./video/index.md)
+- [Creating accessible content](./creating-accessible-content/index.md)
+- [ActionScript](./actionscript/index.md)
+- [Publishing and Exporting](./publishing-and-exporting/index.md)
+- [Best practices](./best-practices/index.md)
